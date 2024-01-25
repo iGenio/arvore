@@ -1,0 +1,71 @@
+{
+    {
+        "name": "",
+        "types": [
+            {
+            "slot": 1,
+            "type": {
+            "name": ""
+            }
+            },
+            {
+            "slot": 2,
+            "type": {
+            "name": ""
+            }
+            }
+        ],
+        "photo": "",
+        "bg": "",
+        "expertises": [
+            {
+            "slot": 1,
+            "type": {
+            "name": ""
+            }
+            },
+            
+            {
+            "slot": 1,
+            "type": {
+            "name": ""
+            }
+            }
+        ]
+    },
+
+    {
+        "name": "",
+        "types": [
+            {
+            "slot": 1,
+            "type": {
+            "name": ""
+            }
+            },
+            {
+            "slot": 2,
+            "type": {
+            "name": ""
+            }
+            }
+        ],
+        "photo": "",
+        "bg": "",
+        "expertises": [
+            {
+            "slot": 1,
+            "type": {
+            "name": ""
+            }
+            },
+            
+            {
+            "slot": 1,
+            "type": {
+            "name": ""
+            }
+            }
+        ]
+    }
+}
