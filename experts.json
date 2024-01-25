@@ -1,5 +1,5 @@
 {
-    {
+    "results": [ {
         "name": "",
         "types": [
             {
@@ -17,7 +17,7 @@
         ],
         "photo": "",
         "bg": "",
-        "expertises": [
+        "expertises": [ 
             {
             "slot": 1,
             "type": {
@@ -33,7 +33,6 @@
             }
         ]
     },
-
     {
         "name": "",
         "types": [
@@ -67,5 +66,5 @@
             }
             }
         ]
-    }
+    }]
 }
