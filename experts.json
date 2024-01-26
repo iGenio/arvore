@@ -1,70 +1,140 @@
 {
     "results": [ {
-        "name": "",
-        "types": [
-            {
-            "slot": 1,
-            "type": {
-            "name": ""
-            }
-            },
-            {
-            "slot": 2,
-            "type": {
-            "name": ""
-            }
-            }
-        ],
+        "name": "Rodrigo Gandia",
         "photo": "",
         "bg": "",
-        "expertises": [ 
-            {
-            "slot": 1,
-            "type": {
-            "name": ""
-            }
-            },
-            
-            {
-            "slot": 1,
-            "type": {
-            "name": ""
-            }
-            }
+        "types": [
+            "Professor",
+            "Pesquisador"
+        ],
+        "expertises": [
+            "Inovação",
+            "Empreendedorismo",
+            "Modeloo de negócio"
         ]
     },
+
     {
-        "name": "",
-        "types": [
-            {
-            "slot": 1,
-            "type": {
-            "name": ""
-            }
-            },
-            {
-            "slot": 2,
-            "type": {
-            "name": ""
-            }
-            }
-        ],
+        "name": "Paulo Pavinato",
         "photo": "",
         "bg": "",
+        "types": [
+            "Professor",
+            "Pesquisador"
+        ],
         "expertises": [
-            {
-            "slot": 1,
-            "type": {
-            "name": ""
-            }
-            },
-            
-            {
-            "slot": 1,
-            "type": {
-            "name": ""
-            }
-            }
+            "Fertilidade",
+            "Adubação"
         ]
-    }]
+    },
+
+    {
+        "name": "Gabriela Souza",
+        "photo": "",
+        "bg": "",
+        "types": [
+            "Consultora"
+        ],
+        "expertises": [
+            "Meio ambiente",
+            "Recursos hídrcos"
+        ]
+    },
+
+    {
+        "name": "Teodorico Ramalho",
+        "photo": "",
+        "bg": "",
+        "types": [
+            "Professor",
+            "Pesquisador"
+        ],
+        "expertises": [
+            "Design de moléculas"
+        ]
+    },
+
+    {
+        "name": "Thiago Bernardes",
+        "photo": "",
+        "bg": "",
+        "types": [
+            "Professor",
+            "Pesquisador"
+        ],
+        "expertises": [
+            "Nutrição de gado de corte"
+        ]
+    },
+
+    {
+        "name": "Carlos Eduardo",
+        "photo": "",
+        "bg": "",
+        "types": [
+            "Professor",
+            "Pesquisador"
+        ],
+        "expertises": [
+            "Frutiicultura"
+        ]
+    },
+
+    {
+        "name": "Rafael Ramon",
+        "photo": "",
+        "bg": "",
+        "types": [
+            "Pesquisador"
+        ],
+        "expertises": [
+            "Conservação do solo e da água",
+            "Modelagem ambiental de pesticidas"
+        ]
+    },
+
+    {
+        "name": "Janaína Rocha",
+        "photo": "",
+        "bg": "",
+        "types": [
+            "Consultora"
+        ],
+        "expertises": [
+            "Conservação e manejo florestal",
+            "Produção rural sustentável",
+            "Justiça social e climática"
+        ]
+    },
+
+    {
+        "name": "Luiz Roberto",
+        "photo": "",
+        "bg": "",
+        "types": [
+            "Professor",
+            "Pesquisador"
+        ],
+        "expertises": [
+            "Solo",
+            "Planta e adubo",
+            "Segurança alimentar e ambiental",
+            "Economia circular"
+        ]
+    },
+
+    {
+        "name": "Cleiton Nunes",
+        "photo": "",
+        "bg": "",
+        "types": [
+            "Professor",
+            "Pesquisador"
+        ],
+        "expertises": [
+            "Análise instrumental",
+            "Modelos preditivos"
+        ]
+    }
+]
 }
