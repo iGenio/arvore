@@ -1,6 +1,6 @@
 {
     "results": [ {
-        "name": "rodrigo gandia",
+        "name": "Rodrigo Gandia",
         "photo": "",
         "bg": "",
         "types": [
@@ -15,7 +15,7 @@
     },
 
     {
-        "name": "paulo pavinato",
+        "name": "Paulo Pavinato",
         "photo": "",
         "bg": "",
         "types": [
@@ -85,7 +85,8 @@
         "photo": "",
         "bg": "",
         "types": [
-            "Pesquisador"
+            "Pesquisador",
+            "Null"
         ],
         "expertises": [
             "Conservação do solo e da água",
