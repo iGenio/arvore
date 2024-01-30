@@ -2,7 +2,7 @@
     "results": [ {
         "name": "Rodrigo Gandia",
         "photo": "https://media.licdn.com/dms/image/D4E03AQGqvB014jEMEg/profile-displayphoto-shrink_800_800/0/1705492576161?e=1712188800&v=beta&t=eSGYL5pVttOZp94MGebz7a2uCaIORbXHidkvhAmJIQg",
-        "bg": "",
+        "bg": "https://images.unsplash.com/photo-1581090698407-7d93959da202?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGlub3ZhdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
         "types": [
             "Professor",
             "Pesquisador"
@@ -17,7 +17,7 @@
     {
         "name": "Paulo Pavinato",
         "photo": "https://media.licdn.com/dms/image/D4D03AQHdQbfqh8sm_g/profile-displayphoto-shrink_800_800/0/1686166002653?e=1712188800&v=beta&t=STSc22ESl71wJFYhaF3fb1p9smimmQrFywMS2g6kkGk",
-        "bg": "",
+        "bg": "https://images.unsplash.com/photo-1641985516750-cc62447213c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGxhbmQlMjBoYW5kfGVufDB8fDB8fHww",
         "types": [
             "Professor",
             "Pesquisador"
@@ -31,7 +31,7 @@
     {
         "name": "Gabriela Souza",
         "photo": "https://media.licdn.com/dms/image/C4D03AQHg1Tnc3VbwEw/profile-displayphoto-shrink_800_800/0/1649766535749?e=1712188800&v=beta&t=YRmCHAjoOiDFYkOjKS4fQ6tPpmlmf4-CHqny30cFHnQ",
-        "bg": "",
+        "bg": "https://images.unsplash.com/photo-1533077162801-86490c593afb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2FuaXRhdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
         "types": [
             "Consultora"
         ],
@@ -44,7 +44,7 @@
     {
         "name": "Teodorico Ramalho",
         "photo": "https://media.licdn.com/dms/image/C5103AQHJr7lHG3h-Rg/profile-displayphoto-shrink_800_800/0/1517614152239?e=1712188800&v=beta&t=nL3Xmpj02HdoRrG9MRiARXlsuCmZgOWIcCRbCIpMN1s",
-        "bg": "",
+        "bg": "https://media.licdn.com/dms/image/C5103AQHJr7lHG3h-Rg/profile-displayphoto-shrink_800_800/0/1517614152239?e=1711584000&v=beta&t=h6SZ0WoQycO0QNzLdsTUTV62Q_qIg7x6CVe3LLwqpHQ",
         "types": [
             "Professor",
             "Pesquisador"
@@ -57,7 +57,7 @@
     {
         "name": "Thiago Bernardes",
         "photo": "https://media.licdn.com/dms/image/C4E03AQFimRGbD3hPvw/profile-displayphoto-shrink_800_800/0/1655228474615?e=1712188800&v=beta&t=daFXxbYmXC5s1tT0mOQNFQhQeXYI4inIYYP8U2-9hQg",
-        "bg": "",
+        "bg": "https://plus.unsplash.com/premium_photo-1677850457281-772c39419991?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y293fGVufDB8fDB8fHww",
         "types": [
             "Professor",
             "Pesquisador"
@@ -70,7 +70,7 @@
     {
         "name": "Carlos Eduardo",
         "photo": "https://static.vecteezy.com/system/resources/previews/023/465/688/non_2x/contact-dark-mode-glyph-ui-icon-address-book-profile-page-user-interface-design-white-silhouette-symbol-on-black-space-solid-pictogram-for-web-mobile-isolated-illustration-vector.jpg",
-        "bg": "",
+        "bg": "https://images.unsplash.com/photo-1697467509395-b5f390d996be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fGZydWl0JTIwY3VsdHVyZXxlbnwwfHwwfHx8MA%3D%3D",
         "types": [
             "Professor",
             "Pesquisador"
@@ -83,7 +83,7 @@
     {
         "name": "Rafael Ramon",
         "photo": "https://media.licdn.com/dms/image/D4D03AQF5m5nH9C5ucw/profile-displayphoto-shrink_800_800/0/1685732467833?e=1712188800&v=beta&t=mUF8pianb594OIC-EIQvDILWRc2CDy6_tD4uW-FyKzA",
-        "bg": "",
+        "bg": "https://images.unsplash.com/photo-1641985516750-cc62447213c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGxhbmQlMjBoYW5kfGVufDB8fDB8fHww",
         "types": [
             "Pesquisador",
             "Null"
@@ -97,7 +97,7 @@
     {
         "name": "Janaína Rocha",
         "photo": "https://media.licdn.com/dms/image/C4D03AQFcC9EAZdBYiw/profile-displayphoto-shrink_800_800/0/1593046583736?e=1712188800&v=beta&t=6jCoiLmxj9i9M_Ax7SqyqNLo_bhJDf0o4wjxdX1hwr8",
-        "bg": "",
+        "bg": "https://images.unsplash.com/photo-1519567770579-c2fc5436bcf9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fHRyZWV8ZW58MHx8MHx8fDA%3D",
         "types": [
             "Consultora"
         ],
@@ -111,7 +111,7 @@
     {
         "name": "Luiz Roberto",
         "photo": "https://media.licdn.com/dms/image/D4D03AQFNxaPTLF-jUA/profile-displayphoto-shrink_800_800/0/1673049321792?e=1712188800&v=beta&t=knAAQagJzlis88FB0mGbrwqQXvdBBY_njAvDI0KBYlE",
-        "bg": "",
+        "bg": "https://images.unsplash.com/photo-1641985516750-cc62447213c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGxhbmQlMjBoYW5kfGVufDB8fDB8fHww",
         "types": [
             "Professor",
             "Pesquisador"
@@ -127,7 +127,7 @@
     {
         "name": "Cleiton Nunes",
         "photo": "https://static.vecteezy.com/system/resources/previews/023/465/688/non_2x/contact-dark-mode-glyph-ui-icon-address-book-profile-page-user-interface-design-white-silhouette-symbol-on-black-space-solid-pictogram-for-web-mobile-isolated-illustration-vector.jpg",
-        "bg": "",
+        "bg": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW9kZWwlMjBhbmFseXNpc3xlbnwwfHwwfHx8MA%3D%3D",
         "types": [
             "Professor",
             "Pesquisador"
